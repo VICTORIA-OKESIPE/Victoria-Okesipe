@@ -6,11 +6,13 @@
   </head>
  
 <body> 
-  <h1 align="center">Hello 🤝, my name is Victoria Okesipe </h1>
+  <h1 align="center">Welcome🤝 to my Github Account, my name is Victoria Okesipe </h1>
 
-  <h3 align="center"> Re-Inspired to Learn, Impact & Build </h3>
+  <h3 align="center"> Victoria is a younglady who has been Re-Inspired to Learn, Impact & Build </h3>
 
-  <h3 align="center"> Interests: Business Analysis | Climate Change </h3>
+  <h3 align="center"> Her Interests include: Business Analysis | Climate Change </h3>
+  
+  <h3 align="center"> Her Most used Tools include: Microsoft Excel | R | Python </h3>
  
   <br>                 
   <div >
