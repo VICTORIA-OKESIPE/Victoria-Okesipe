@@ -6,7 +6,7 @@
   </head>
  
 <body> 
-  <h1 align="center">Hello 👋, My name is Victoria Okesipe </h1>
+  <h1 align="center">Hello 🤝, my name is Victoria Okesipe </h1>
 
   <h3 align="center"> Re-Inspired to Learn, Impact & Build a Resounding PortFolio </h3>
 
