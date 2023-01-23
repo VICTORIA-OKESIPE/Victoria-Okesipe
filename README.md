@@ -8,7 +8,7 @@
 <body> 
   <h1 align="center">Hello 🤝, my name is Victoria Okesipe </h1>
 
-  <h3 align="center"> Re-Inspired to Learn, Impact & Build a Resounding PortFolio </h3>
+  <h3 align="center"> Re-Inspired to Learn, Impact & Build </h3>
 
   <h3 align="center"> Interests: Business Analysis | Climate Change </h3>
  
