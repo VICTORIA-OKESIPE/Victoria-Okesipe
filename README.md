@@ -7,12 +7,14 @@
  
 <body> 
   
+    <h1 align="center"> Hello! Welcome🤝 to my Github Profile. <br> <br/> My name is Victoria Okesipe </h1>
+  
    <br>                 
   <div >
       <img src="github_victoria_okesipe.JPG" width="100%" height="50%" >
   </div>
  <br/>
-  <h1 align="center"> Hello! Welcome🤝 to my Github Profile. <br> <br/> My name is Victoria Okesipe </h1>
+
 
   <h3 align="center"> Victoria is a younglady who has been Re-Inspired to Learn, Impact & Build </h3>
 
