@@ -6,7 +6,7 @@
   </head>
  
 <body> 
-  <h1 align="center"> Hello! Welcome🤝 to my Github Profile. My name is Victoria Okesipe </h1>
+  <h1 align="center"> Hello! Welcome🤝 to my Github Profile. <br> <br/> My name is Victoria Okesipe </h1>
 
   <h3 align="center"> Victoria is a younglady who has been Re-Inspired to Learn, Impact & Build </h3>
 
