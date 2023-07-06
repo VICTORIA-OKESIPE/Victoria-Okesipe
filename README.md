@@ -7,7 +7,7 @@
  
 <body> 
   
-  <h1 align="center"> elome,🤝I am so thrilled to have you here. </h1>
+  <h1 align="center"> Welome,🤝I am so thrilled to have you here. </h1>
   
   
    <br>                 
