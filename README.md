@@ -17,7 +17,7 @@
    <br/>
  
  <h3 align="center"> Victoria is a younglady who has been Re-Inspired to Learn, Impact & Build. </h3>
- <h3 align="center"> Her Interests Include: Business Data Analytics | Data Science | Climate Change, Finance & Management </h3>
+ <h3 align="center"> Her Interests Include: Business Data Analytics | Data Science | Climate Change, Finance & Management | finML </h3>
  <h3 align="center"> Her Most Used Tools/Programming Languages Include: MS Excel | R | Python </h3>
   
  
