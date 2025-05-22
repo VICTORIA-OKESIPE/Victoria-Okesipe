@@ -12,7 +12,7 @@
   
    <br>                 
   <div >
-      <img src="victoria_okesipe_github.JPG">
+      <img src="victoria_okesipe_github.jpg">
   </div>
    <br/>
  
