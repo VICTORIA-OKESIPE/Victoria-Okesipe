@@ -12,7 +12,7 @@
   
    <br>                 
   <div >
-      <img src="victoria_okesipe_github.JPG" width="100%" height="50%" >
+      <img src="victoria_okesipe_github.JPG">
   </div>
    <br/>
  
