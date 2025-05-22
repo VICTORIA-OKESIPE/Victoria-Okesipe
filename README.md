@@ -16,9 +16,9 @@
   </div>
    <br/>
  
- <h3 align="center"> Victoria is a younglady who has been Re-Inspired to Learn, Impact & Build. </h3>
- <h3 align="center"> Her Interests Include: Human-Computer Interaction | NeuroScience | finML | Climate Change </h3>
- <h3 align="center"> Her Most Used Tools/Programming Languages Include: Python | R  </h3>
+ <h3 align="center"> Get Inspired * Learn *  Code * Build * Impact </h3>
+ <h3 align="center"> Research Interests: Human-Computer Interaction | NeuroScience | finML | Climate Change </h3>
+ <h3 align="center"> Programming Languages: Python | R  </h3>
   
  
   
