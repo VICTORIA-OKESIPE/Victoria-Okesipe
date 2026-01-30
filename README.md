@@ -13,6 +13,7 @@
    <br>                 
   <div >
       <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg"
+        width=1000 height=1000
         style="display:block; margin: 0 auto;"
         >
   </div>
