@@ -12,7 +12,7 @@
   
    <br>                 
   <div >
-      <img src="victoria_okesipe_github.jpg">
+      <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg">
   </div>
    <br/>
  
