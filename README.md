@@ -12,7 +12,7 @@
   
    <br>                 
   <div >
-      <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg" width=1200 height = 1000>
+      <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg" width=750 height = 750>
   </div>
    <br/>
  
