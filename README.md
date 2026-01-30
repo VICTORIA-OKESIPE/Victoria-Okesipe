@@ -12,7 +12,9 @@
   
    <br>                 
   <div >
-      <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg" align="cemter">
+      <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg"
+        style="display:block; margin: 0 auto;"
+        >
   </div>
    <br/>
  
