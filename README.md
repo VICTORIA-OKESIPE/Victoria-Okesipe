@@ -13,7 +13,7 @@
    <br>                 
   <div >
     <p align="center">
-    <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg" width="400" />
+    <img src="Github-Profile Image- Victoria Okesipe Babalola.jpg" />
     </p>
   </div>
    <br/>
